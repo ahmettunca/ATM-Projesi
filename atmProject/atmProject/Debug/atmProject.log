@@ -1,0 +1,12 @@
+﻿  main.cpp
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(40): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(66): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(74): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(90): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(146): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(189): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+LINK : fatal error LNK1168: E:\Yazilim Calismalari\VS calismalari\atmProject\Debug\atmProject.exe yazma için açılamıyor

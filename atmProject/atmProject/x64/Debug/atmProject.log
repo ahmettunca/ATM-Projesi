@@ -1,0 +1,81 @@
+﻿  main.cpp
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteriislem.h(14): error C2061: sözdizimi hatası: tanımlayıcı 'string'
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(35): error C2259: 'musteriBilgi': soyut sınıfın örneği oluşturulamıyor
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(35): note: şu üyeler nedeniyle:
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(35): note: 'void musteriIslem::havaleKayit(std::string,double)' : soyut
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteriislem.h(14): note: 'musteriIslem::havaleKayit' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(33): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(55): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(107): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(115): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(131): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(216): error C2259: 'musteriBilgi': soyut sınıfın örneği oluşturulamıyor
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(216): note: şu üyeler nedeniyle:
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(216): note: 'void musteriIslem::havaleKayit(std::string,double)' : soyut
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteriislem.h(14): note: 'musteriIslem::havaleKayit' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(248): error C2259: 'musteriBilgi': soyut sınıfın örneği oluşturulamıyor
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(248): note: şu üyeler nedeniyle:
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(248): note: 'void musteriIslem::havaleKayit(std::string,double)' : soyut
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteriislem.h(14): note: 'musteriIslem::havaleKayit' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(275): error C2259: 'musteriBilgi': soyut sınıfın örneği oluşturulamıyor
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(275): note: şu üyeler nedeniyle:
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(275): note: 'void musteriIslem::havaleKayit(std::string,double)' : soyut
+  e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteriislem.h(14): note: 'musteriIslem::havaleKayit' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(188): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(233): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(252): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(256): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(262): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(279): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(289): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\main.cpp(293): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+  Kod Üretiliyor...
+  Derleniyor...
+  musteriBilgi.cpp
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(134): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(147): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(171): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(176): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(189): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(203): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(205): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(208): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(228): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(235): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(276): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(291): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(305): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(318): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(333): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(347): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+e:\yazilim calismalari\vs calismalari\atmproject\atmproject\musteribilgi.cpp(354): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: '_sleep' bildirimine bakın
+  Kod Üretiliyor...

@@ -1,0 +1,7 @@
+Müþteri Hesap No   :20090001
+Þifre              :4321
+Adý                :Yunus
+Soyadý             :Cagliyan
+Adresi             :ddd
+Bakiye             :0
+Bloke              :0

@@ -1,0 +1,7 @@
+Müþteri Hesap No   :20090000
+Þifre              :1234
+Adý                :Ahmet
+Soyadý             :Tunca
+Adresi             :asdf
+Bakiye             :2000,000000
+Bloke              :0

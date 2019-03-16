@@ -1,4 +1,2 @@
 # ATM-Projesi
-C++ ile Para Çekme Makinesi tasarımı
-## ATm
-<a href="ss">sd</a>
+C++ ile Nesne yönelimli programlama ile Para Çekme Makinesi tasarımı
